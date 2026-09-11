@@ -13,6 +13,7 @@ This repository contains multiple React projects bootstrapped with Vite.
 - [Material](./Material)
 - [Nextly](./Nextly)
 - [Portfolio](./Portfolio)
+- [Startup](./Startup)
 - [Windmill-saas](./Windmill-saas)
 
 Feel free to explore each project's individual `README.md` for specific instructions on how to run them locally.
